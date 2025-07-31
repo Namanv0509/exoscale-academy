@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Check"
 id: "kubernetes-details"
-passing_percentage: 75
+passing_percentage: 70
 questions:
   - id: "q1"
     text: "What of the following features were mentioned in the 'Kubernetes Details' section?"

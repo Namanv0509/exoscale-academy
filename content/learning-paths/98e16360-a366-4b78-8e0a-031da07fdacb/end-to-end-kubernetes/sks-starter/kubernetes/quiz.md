@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Check"
 id: "quiz-kubernetes"
-passing_percentage: 75
+passing_percentage: 70
 questions:
     - id: "q1"
       text: "A Deployment consists of:"

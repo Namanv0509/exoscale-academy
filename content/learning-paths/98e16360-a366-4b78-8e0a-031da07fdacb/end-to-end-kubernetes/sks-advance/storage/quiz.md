@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Check"
 id: "quiz-storage"
-passing_percentage: 75
+passing_percentage: 70
 questions:
     - id: "q1"
       text: "An arbitrary cloud provider offers managed Kubernetes. There a customer wants to deploy a database with a single replica. Which storage solutions would you generally recommend for production use?"

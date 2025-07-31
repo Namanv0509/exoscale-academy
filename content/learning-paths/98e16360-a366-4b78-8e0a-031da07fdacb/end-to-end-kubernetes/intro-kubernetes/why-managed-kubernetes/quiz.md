@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Check - Why Managed Kubernetes"
 id: "why-managed-kubernetes"
-passing_percentage: 75
+passing_percentage: 70
 questions:
   - id: "q1"
     text: "What are reasons to prefer Managed Kubernetes?"

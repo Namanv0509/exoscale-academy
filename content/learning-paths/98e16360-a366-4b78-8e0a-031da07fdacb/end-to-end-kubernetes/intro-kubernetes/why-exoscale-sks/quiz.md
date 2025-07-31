@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Check"
 id: "why-managed-kubernetes"
-passing_percentage: 75
+passing_percentage: 70
 questions:
   - id: "q1"
     text: "What are useable management interfaces for SKS?"

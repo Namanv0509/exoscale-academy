@@ -1,5 +1,5 @@
 ---
-title: "Course Test"
+title: "Intro Pricing Test"
 passing_percentage: 70
 questions:
   - id: "q1"

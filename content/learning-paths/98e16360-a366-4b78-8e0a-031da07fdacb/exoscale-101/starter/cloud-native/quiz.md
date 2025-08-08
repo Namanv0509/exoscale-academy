@@ -1,5 +1,5 @@
 ---
-title: "Quiz"
+title: "Cloud Native Quiz"
 passing_percentage: 70
 questions:
   - id: "q1"

@@ -1,5 +1,5 @@
 ---
-title: "Quiz"
+title: "CS and Cloud Quiz"
 id: "cs-and-cloud"
 passing_percentage: 70
 questions:

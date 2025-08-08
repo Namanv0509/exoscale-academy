@@ -1,5 +1,5 @@
 ---
-title: "Quiz"
+title: "WHy Containers Quiz"
 id: "why-containers"
 passing_percentage: 70
 questions:

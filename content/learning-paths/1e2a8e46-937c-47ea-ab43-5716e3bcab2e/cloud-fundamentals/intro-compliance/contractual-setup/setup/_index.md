@@ -1,6 +1,6 @@
 ---
 type: "page"
-id: "Contractual Setup"
+id: "Contractual Setup Test"
 description: ""
 title: "Contractual Setup"
 weight: 1
